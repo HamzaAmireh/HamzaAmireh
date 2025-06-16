@@ -1,5 +1,27 @@
-## Hi there 👋
+## Hi there 👋, I'm Hamza 
+## Full-Stack Developer
+**I build and fix:**  
+🛠️ WordPress/Laravel backends  
+📱 Flutter mobile apps  
+🌐 React/Vue frontends  
 
+### Featured Projects  
+🔗 [Project 1: Wordpress Hivepress Booking Plugin](link)  
+🔗 [Project 2: Laravel Filament Admin Dasboard](link)  
+🔗 [Project 3: Laravel E-Commerce API](link)  
+🔗 [Project 4: Flutter WebView App](link)  
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 
+**Need a developer who ships?**  
+➡️ [[Upwork Profile](your_upwork_link)](https://upwork.com/freelancers/~01d5c55d21fadc8613) 
 <!--
 **HamzaAmireh/HamzaAmireh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
