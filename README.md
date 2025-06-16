@@ -1,6 +1,5 @@
-																									## Hi there 👋, I'm Hamza 
-																									   Full-Stack Developer
-**I build and fix:**  
+   **Hi there 👋, I'm Hamza**																	  
+   **I build and fix:**  
 🛠️ WordPress/Laravel backends  
 📱 Flutter mobile apps  
 🌐 React/Vue frontends  
