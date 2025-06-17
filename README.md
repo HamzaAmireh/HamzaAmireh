@@ -8,8 +8,8 @@
 🌐 React/Vue frontends  
 
 ### Featured Projects  
-🔗 [Project 1: Wordpress Hivepress Hourly-Weekly-Monthly Booking plugin]([link](https://github.com/HamzaAmireh/Hivepress-Hourly-Daily-Weekly-Monthly-Booking))  
-🔗 [Project 2: Wordpress Hivepress Same Day Booking Fix]([link](https://github.com/HamzaAmireh/Fix-HivePress-Current-Day-Booking))  
+🔗 ([Project 1: Wordpress Hivepress Hourly-Weekly-Monthly Booking plugin](https://github.com/HamzaAmireh/Hivepress-Hourly-Daily-Weekly-Monthly-Booking))  
+🔗 ([Project 2: Wordpress Hivepress Same Day Booking Fix](https://github.com/HamzaAmireh/Fix-HivePress-Current-Day-Booking))  
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaamireh&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaamireh" /> </p>
