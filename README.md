@@ -8,10 +8,9 @@
 🌐 React/Vue frontends  
 
 ### Featured Projects  
-🔗 [Project 1: Wordpress Hivepress Booking Plugin](link)  
-🔗 [Project 2: Laravel Filament Admin Dasboard](link)  
-🔗 [Project 3: Laravel E-Commerce API](link)  
-🔗 [Project 4: Flutter WebView App](link)  
+🔗 [Project 1: Wordpress Hivepress Hourly-Weekly-Monthly Booking plugin]([link](https://github.com/HamzaAmireh/Hivepress-Hourly-Daily-Weekly-Monthly-Booking))  
+🔗 [Project 2: Wordpress Hivepress Same Day Booking Fix]([link](https://github.com/HamzaAmireh/Fix-HivePress-Current-Day-Booking))  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaamireh&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaamireh" /> </p>
 
