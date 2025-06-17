@@ -29,9 +29,9 @@ Open to collaborating on **high-performance HivePress extensions** (APIs, paymen
 - 👨‍💻 All of my projects are available at [https://hamzaamireh.com](https://hamzaamireh.com)
 
 - 💬 Ask me about **PHP, WordPress & Laravel**
-
+<!--
 - 📫 How to reach me **hamza@hamzaamireh.com**
-
+-->
 - ⚡ Fun fact **I automate my coffee maker with PHP**
 
 <!--
