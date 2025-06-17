@@ -18,15 +18,16 @@
 
 - 🔭 I’m currently working on **WordPress Booking Plugin for HivePress**
 
-- 👯 I’m looking to collaborate on **HivePress Plugins**
+- 👯 I’m looking to collaborate on **New HivePress Extensions**
 
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01d5c55d21fadc8613](https://www.upwork.com/freelancers/~01d5c55d21fadc8613)
+- 👨‍💻 All of my projects are available at [https://hamzaamireh.com](https://hamzaamireh.com)
 
 - 💬 Ask me about **PHP, WordPress & Laravel**
 
-- 📫 How to reach me **hamzaamireh777@gmail.com**
+- 📫 How to reach me **hamza@hamzaamireh.com**
 
-- ⚡ Fun fact **I'm very sensitive, I might crack**
+- ⚡ Fun fact **I automate my coffee maker with PHP**
+
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
