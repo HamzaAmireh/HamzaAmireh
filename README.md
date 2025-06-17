@@ -47,6 +47,9 @@ Open to collaborating on **high-performance HivePress extensions** (APIs, paymen
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hamzaamireh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hamzaamireh" /></a><a href="https://ko-fi.com/hamzaamireh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hamzaamireh" /></a></p><br><br>
+
+**Need a developer who delivers?** ➡️ [Let’s talk](https://upwork.com/freelancers/~01d5c55d21fadc8613)
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaamireh&show_icons=true&locale=en&layout=compact" alt="hamzaamireh" /></p>
 
