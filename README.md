@@ -16,9 +16,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaamireh" alt="hamzaamireh" /></a> </p>
 
-- 🔭 I’m currently working on **WordPress Booking Plugin for HivePress**
+### 🔭 Current Focus  
+Building **WordPress Booking Plugins for HivePress** to help businesses manage appointments seamlessly.  
 
-- 👯 I’m looking to collaborate on **New HivePress Extensions**
+### 👯 Collaboration Goals  
+Open to collaborating on **high-performance HivePress extensions** (APIs, payment gateways, UI tweaks).  
+
+### 📫 Get in Touch  
+- **Professional**: hamza@hamzaamireh.com  
+- **Upwork**: [Hire Me](https://upwork.com/freelancers/~01d5c55d21fadc8613)  
 
 - 👨‍💻 All of my projects are available at [https://hamzaamireh.com](https://hamzaamireh.com)
 
