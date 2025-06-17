@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **WordPress Booking Plugin for HivePress**
 
-- 👯 I’m looking to collaborate on **W**
+- 👯 I’m looking to collaborate on **HivePress Plugins**
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01d5c55d21fadc8613](https://www.upwork.com/freelancers/~01d5c55d21fadc8613)
 
