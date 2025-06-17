@@ -25,13 +25,13 @@ Open to collaborating on **high-performance HivePress extensions** (APIs, paymen
 ### 📫 Get in Touch  
 - **Professional**: hamza@hamzaamireh.com  
 - **Upwork**: [Hire Me](https://upwork.com/freelancers/~01d5c55d21fadc8613)  
-
-- 👨‍💻 All of my projects are available at [https://hamzaamireh.com](https://hamzaamireh.com)
-
-- 💬 Ask me about **PHP, WordPress & Laravel**
 <!--
-- 📫 How to reach me **hamza@hamzaamireh.com**
+- 👨‍💻 All of my projects are available at [https://hamzaamireh.com](https://hamzaamireh.com)
 -->
+- 💬 Ask me about **PHP, WordPress & Laravel**
+
+- 📫 How to reach me **hamza@hamzaamireh.com**
+
 - ⚡ Fun fact **I automate my coffee maker with PHP**
 
 <!--
