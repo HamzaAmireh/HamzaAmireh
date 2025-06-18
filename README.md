@@ -11,9 +11,9 @@
 🔗 ([Project 1: Wordpress Hivepress Hourly-Weekly-Monthly Booking plugin](https://github.com/HamzaAmireh/Hivepress-Hourly-Daily-Weekly-Monthly-Booking))  
 🔗 ([Project 2: Wordpress Hivepress Same Day Booking Fix](https://github.com/HamzaAmireh/Fix-HivePress-Current-Day-Booking))  
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaamireh&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaamireh" /> </p>
 <!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaamireh&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaamireh" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaamireh" alt="hamzaamireh" /></a> </p>
 -->
 ### 🔭 Current Focus  
